@@ -1,8 +1,7 @@
 ---
-title: test of markdown documentation
-description: 
-author: ekpgh
-date: 09/23/2021
+layout: page
+title: "test of markdown documentation"
+permalink: /md-test-file/
 ---
 
 # Overview
