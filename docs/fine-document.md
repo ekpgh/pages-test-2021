@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "A Fine Document"
-permalink: /URL-PATH/
+permalink: /hey-you-fine/
 ---
 
 # Test file in docs folder
