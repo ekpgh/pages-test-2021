@@ -2,6 +2,9 @@
 
 [link to another page I made](fine-document.md)
 
+[link to something else without correct tags](test-md-file.md)
+
+[link to something in the wrong directory (also without correct tags)](../test-md-file2.md)
 
 ## Index Page GitHub Made - Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/ekpgh/pages-test-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
